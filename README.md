@@ -1,4 +1,6 @@
-# PPSSPP Cheat File List
+# PPSSPP Cheat File List to support 4:3, 3:2 and ultra wide aspect ratio
+
+It's based on the origin topic: https://forums.ppsspp.org/showthread.php?tid=26189
 
 Total games: **102**
 
