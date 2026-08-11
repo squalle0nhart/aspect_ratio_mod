@@ -1,0 +1,34 @@
+@nsobid-D1ED438C8BDAF4368B30DAEC53ED8E9BACD31A34
+
+@flag print_values
+@flag offset_shift 0x100
+
+@enabled
+00348b6c 69559552
+00348b70 49f5a772
+@disabled
+
+// Disable DOF
+@disabled
+0276a66c 1F7C0329
+@stop
+
+// Max LOD
+@disabled
+0032cfd0 00D0351E
+@disabled
+
+// 2K Shadow Resolution
+@disabled
+0277C510 00008152
+0277C514 01008152
+0277C518 03008152
+0277C51C 04008152
+0277C6A8 08A0A8D2
+0277C6B4 08A0E8F2
+0277C6AC E90315B2
+@disabled
+
+
+// Generated using EOW-AAR by Fayaz (github.com/fayaz12g/eow-aar)
+// Made possible by Fl4sh_#9174

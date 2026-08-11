@@ -1,0 +1,7 @@
+4/3 hex
+@enabled
+00348b6c 69559552 
+00348b70 49f5a772
+@disabled
+
+fmov s0, #1.37500000
