@@ -1,6 +1,6 @@
 # PPSSPP Cheat File List
 
-Total games: **102**
+Total games: **103**
 
 | Game | Game ID | Cheat file |
 |---|---|---|
@@ -75,6 +75,7 @@ Total games: **102**
 | PES 2014 [EUR] | `ULES01597` | [ULES01597.ini](ULES01597.ini) |
 | Phantasy Star Portable | `ULUS10410` | [ULUS10410.ini](ULUS10410.ini) |
 | Phantasy Star Portable 2 | `ULUS10529` | [ULUS10529.ini](ULUS10529.ini) |
+| Phantasy Star Portable 2 Infinity | `NPJH50332` | [NPJH50332.ini](NPJH50332.ini) |
 | Phineas and Ferb Across the 2nd Dimension | `NPUG98775` | [NPUG98775.ini](NPUG98775.ini) |
 | Pimp My Ride | `ULUS10256` | [ULUS10256.ini](ULUS10256.ini) |
 | Prince of Persia Revelations | `ULUS10063` | [ULUS10063.ini](ULUS10063.ini) |
